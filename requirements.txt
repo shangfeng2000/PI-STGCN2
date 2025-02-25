@@ -87,13 +87,13 @@ mpmath==1.1.0
 nbconvert==5.4.1
 nbformat==4.4.0
 nested-dict==1.61
-networkx~=3.1
+networkx==2.3
 nose==1.3.7
 nose-parameterized==0.3.4
 notebook==5.7.7
 numba==0.44.0
 numexpr==2.6.4
-numpy~=1.24.4
+numpy==1.16.4
 nvidia-ml-py==7.352.0
 oauth==1.0.1
 olefile==0.45.1
@@ -155,7 +155,7 @@ robust-loss-pytorch==0.0.2
 scikit-cuda==0.5.2
 scikit-image==0.15.0
 scikit-learn==0.21.2
-scipy~=1.10.1
+scipy==1.3.0
 screen-resolution-extra==0.0.0
 seaborn==0.9.0
 SecretStorage==2.3.1
@@ -175,7 +175,7 @@ termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
 Theano==1.0.3
-torch~=1.12.1+cu116
+torch==1.1.0
 torch-dct==0.1.5
 torchfile==0.1.0
 torchnet==0.0.4
@@ -183,7 +183,7 @@ torchsummary==1.5.1
 torchvision==0.2.1
 torchviz==0.0.1
 tornado==6.0.2
-tqdm~=4.66.2
+tqdm==4.28.1
 traitlets==4.3.2
 typed-ast==1.3.5
 ubuntu-drivers-common==0.0.0
